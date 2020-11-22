@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Secheli_Stefania_Lab2.Data;
+using LibraryModel.Data;
 
 namespace Secheli_Stefania_Lab2.Migrations
 {

@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Secheli_Stefania_Lab2.Models;
 using Microsoft.EntityFrameworkCore;
-using Secheli_Stefania_Lab2.Data;
+using LibraryModel.Data;
 using Secheli_Stefania_Lab2.Models.LibraryViewModels;
 
 namespace Secheli_Stefania_Lab2.Controllers

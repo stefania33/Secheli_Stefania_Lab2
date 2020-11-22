@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Secheli_Stefania_Lab2.Models;
+using LibraryModel.Data;
+using LibraryModel.Models;
 
 namespace Secheli_Stefania_Lab2.Data
 {

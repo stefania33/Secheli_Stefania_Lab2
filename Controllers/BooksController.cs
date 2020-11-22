@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Secheli_Stefania_Lab2.Data;
-using Secheli_Stefania_Lab2.Models;
+using LibraryModel.Data;
+using LibraryModel.Models;
 
 namespace Secheli_Stefania_Lab2.Controllers
 {

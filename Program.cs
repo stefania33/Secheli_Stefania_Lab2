@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
+using LibraryModel.Data;
 using Secheli_Stefania_Lab2.Data;
 
 namespace Secheli_Stefania_Lab2

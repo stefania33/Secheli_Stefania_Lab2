@@ -49,6 +49,7 @@ namespace Secheli_Stefania_Lab2
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
@@ -58,6 +59,7 @@ namespace Secheli_Stefania_Lab2
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapHub<ChatHub>("/chathub");
+                endpoints.MapRazorPages();
             });
         }
     }
